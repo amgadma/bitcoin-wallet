@@ -1,6 +1,6 @@
 Welcome to _Zcash Android Wallet_, a standalone Zcash payment app for your Android device!
 
-This project is based on a fork of https://github.com/bitcoin-wallet/bitcoin-wallet, it 
+This project is based on a fork of https://github.com/bitcoin-wallet/bitcoin-wallet 
 
 This software is in POC phase
 
